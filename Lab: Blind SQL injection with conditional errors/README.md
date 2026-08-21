@@ -4,7 +4,7 @@ Install the required dependencies before running the script:
 
 ```bash
 pip install beautifulsoup4 requests
-'''
+
 
 Copy your active TrackingId and session cookies and update them in blindsql.py.
 
