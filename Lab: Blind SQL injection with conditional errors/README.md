@@ -1,5 +1,12 @@
-I got an eror for beautifulsoup4 not installed, solved with a simple
--> pip install beautifulsoup4 requests
+## 📦 Prerequisites
+
+Install the required dependencies before running the script:
+
+```bash
+pip install beautifulsoup4 requests
+'''
+
+Copy your active TrackingId and session cookies and update them in blindsql.py.
 
 Running it is easy, just run the command and the url as parameter
 
