@@ -1,2 +1,2 @@
 # PortSwigger
-Code for solving labs and writings
+Python Code for solving labs and writings
