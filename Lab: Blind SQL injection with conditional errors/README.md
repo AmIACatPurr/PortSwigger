@@ -5,10 +5,12 @@ Install the required dependencies before running the script:
 ```bash
 pip install beautifulsoup4 requests
 
+A multi-threaded, high-throughput Python exploit script for PortSwigger’s **"Lab: Blind SQL injection with conditional errors"**.
+Rebuilt from legacy code to turn a 2-hour throttled Intruder run into a sub-minute parallel extraction.
 
-Copy your active TrackingId and session cookies and update them in blindsql.py.
+Open blindsql.py, grab your active session credentials from the target instance, and update the headers:
 
-Running it is easy, just run the command and the url as parameter
+Pass the target lab instance directly via command line
 
 Example
 -> python3 blindsql.py https://0a75002a037a3ec180752bc8009e0061.web-security-academy.net/
