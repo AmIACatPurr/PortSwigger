@@ -11,3 +11,11 @@ However, relying solely on community-tier tools introduces heavy rate-limiting a
 
 This repository houses **custom Python automation scripts** to solve labs in seconds—proving that understanding 
 raw protocol mechanics always beats waiting on a progress bar.
+
+
+
+
+
+⚠️ Disclaimer
+All scripts, payloads, and write-ups in this repository are created strictly for educational purposes and legal security research on 
+authorized environments like PortSwigger Web Security Academy.
